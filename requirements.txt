@@ -1,0 +1,12 @@
+python
+numpy
+pandas 
+streamlit
+tensorflow
+streamlit
+pickle
+scikit-learn
+seaborn
+matplotlib
+
+
